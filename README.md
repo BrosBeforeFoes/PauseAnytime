@@ -1,20 +1,20 @@
-[![](https://img.shields.io/badge/-Nihility_Shift-111111?style=just-the-label&logo=github&labelColor=24292f)](https://github.com/Nihility-Shift)
+[![](https://img.shields.io/badge/-BrosBeforeFoes-111111?style=just-the-label&logo=github&labelColor=24292f)](https://github.com/BrosBeforeFoes)
 ![](https://img.shields.io/badge/Game%20Version-1.1.0-111111?style=flat&labelColor=24292f&color=111111)
 [![](https://img.shields.io/discord/1180651062550593536.svg?&logo=discord&logoColor=ffffff&style=flat&label=Discord&labelColor=24292f&color=111111)](https://discord.gg/g2u5wpbMGu "Void Crew Modding Discord")
 
-# Pause
+# PauseAnytime
 
 Version 1.0.1  
 For Game Version 1.1.0  
-Developed by Dragon, 18107  
+Developed by Dragon, 18107, rcannood  
 Requires:  BepInEx-BepInExPack-5.4.2100, NihilityShift-VoidManager-1.2.8
 
 
 ---------------------
 
-### 💡 Functions - Allows the game to be paused during a Void Jump.
+### 💡 Functions - Allows the game to be paused at a moment's notice. Built for parents, busy people, and those who just want to take a break.
 
-- Pauses game after user input. Must be in void tunnel.
+- Pauses game after user input.
 - Allows clients to pause based on settings.
 - Provides keybind and GUI for controlling pause state.
 
@@ -37,4 +37,4 @@ Ensure that you have [BepInEx 5](https://thunderstore.io/c/void-crew/p/BepInEx/B
 
 #### ✔️ Mod installation - **Unzip the contents into the BepInEx plugin directory**
 
-Drag and drop `Pause.dll` into `Void Crew\BepInEx\plugins`
+Drag and drop `PauseAnytime.dll` into `Void Crew\BepInEx\plugins`

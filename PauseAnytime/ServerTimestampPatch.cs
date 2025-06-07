@@ -4,7 +4,7 @@ using System;
 using System.Diagnostics;
 using System.Reflection;
 
-namespace Pause
+namespace PauseAnytime
 {
     [HarmonyPatch(typeof(PhotonNetwork), "ServerTimestamp", MethodType.Getter)]
     internal class ServerTimestampPatch

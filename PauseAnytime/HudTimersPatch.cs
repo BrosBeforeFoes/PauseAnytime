@@ -1,7 +1,7 @@
 ﻿using HarmonyLib;
 using UnityEngine;
 
-namespace Pause
+namespace PauseAnytime
 {
     //Uses real time since start, which may be nice for certain UI elements while paused, but is terrible for the Void Jump Stability number.
     [HarmonyPatch("UnityEngine.UIElements.Panel, UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null", "DefaultTimeSinceStartupMs")]
