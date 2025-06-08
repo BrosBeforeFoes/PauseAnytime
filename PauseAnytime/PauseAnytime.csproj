@@ -4,7 +4,7 @@
     <AssemblyName>PauseAnytime</AssemblyName>
     <Description>
     </Description>
-    <Version>1.0.1</Version>
+    <Version>1.0.1.1</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <RestoreAdditionalProjectSources>
@@ -13,7 +13,7 @@
       https://nuget.samboy.dev/v3/index.json
     </RestoreAdditionalProjectSources>
     <RootNamespace>PauseAnytime</RootNamespace>
-    <AssemblyTitle>Allows the game to be paused at a moment's notice. Built for parents, busy people, and those who just want to take a break.</AssemblyTitle>
+    <AssemblyTitle>Pause the game at any time.</AssemblyTitle>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebugType>embedded</DebugType>

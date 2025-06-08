@@ -4,7 +4,7 @@
 
 # PauseAnytime
 
-Version 1.0.1  
+Version 1.0.1.1  
 For Game Version 1.1.0  
 Developed by Dragon, 18107, rcannood  
 Requires:  BepInEx-BepInExPack-5.4.2100, NihilityShift-VoidManager-1.2.8
@@ -12,7 +12,11 @@ Requires:  BepInEx-BepInExPack-5.4.2100, NihilityShift-VoidManager-1.2.8
 
 ---------------------
 
-### 💡 Functions - Allows the game to be paused at a moment's notice. Built for parents, busy people, and those who just want to take a break.
+Allows players to pause the game after user input (Home key).
+
+This mod is a fork of the original [Pause](https://github.com/Nihility-Shift/Pause) by Dragon and 18107, so all credits go to them for their hard work on the original mod. The only difference is that this fork allows for pausing the game at any time, not just during stable void jumps. By all means the original mod is better, but some players need the ability to pause at a moment's notice.
+
+### 💡 Functions - Pause the game at any time.
 
 - Pauses game after user input.
 - Allows clients to pause based on settings.
