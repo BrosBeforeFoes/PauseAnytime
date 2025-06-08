@@ -1,4 +1,4 @@
-## 1.0.1.1
+## 1.0.2
 
 Improve documentation and add a link to the original Pause repository.
 
