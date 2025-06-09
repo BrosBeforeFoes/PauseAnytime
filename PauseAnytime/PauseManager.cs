@@ -35,8 +35,6 @@ namespace PauseAnytime
 
         internal static Player pausePlayer;
 
-        private static bool stable = true;
-
         private enum MessageType
         {
             Pause,
