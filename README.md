@@ -4,7 +4,7 @@
 
 # PauseAnytime
 
-Version 1.0.2  
+Version 1.0.3  
 For Game Version 1.1.0  
 Developed by Dragon, 18107, rcannood  
 Requires:  BepInEx-BepInExPack-5.4.2100, NihilityShift-VoidManager-1.2.8

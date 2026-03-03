@@ -1,3 +1,7 @@
+## 1.0.3
+
+* Updated dependencies to latest versions.
+
 ## 1.0.2
 
 Improve documentation and add a link to the original Pause repository.
