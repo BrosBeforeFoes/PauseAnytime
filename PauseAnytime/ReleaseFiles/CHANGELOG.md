@@ -1,6 +1,6 @@
 ## 1.0.3
 
-* Updated dependencies to latest versions.
+* **Deprecation notice**: This mod is deprecated. The original [Pause](https://thunderstore.io/c/void-crew/p/NihilityShift/Pause/) mod now supports pausing at any time as well. Please uninstall PauseAnytime and install Pause instead.
 
 ## 1.0.2
 
